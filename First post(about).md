@@ -1,6 +1,6 @@
 - 👋 Hey Homie, I’m @PromptKrishan
 - 👀 I’m interested in Web Devlopment,Tech,Artificial intelligence
-- 🌱 I’m currently learning ...Web Devlopment
+- 🌱 I’m currently learning ...Web Devlopment,Dsa with c++ and java and python with machine learning
 - 💞️ I’m trying to make a strong command on Python.
 - 📫 How to reach me - Through gmail or Dm me on insta or twitter or likendin
 - 😄 Pronouns: Depper Prompt
